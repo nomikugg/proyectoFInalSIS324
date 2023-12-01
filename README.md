@@ -5,7 +5,7 @@
 <h3> Rojas Arroyo Luis Fernando</h3>
 <h3> Nava Siñani Kelvin Jherman</h3>
 
-<p><b>Aplicacion De Citas Medicas</b></p>
+<h1><b>Aplicacion De Citas Medicas</b></h1>
 
 # Pre-requisites
 
